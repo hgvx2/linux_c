@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>1</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/zuo/mytools_new/testtools_new/TestSrv.cpp</file>
+            <file>file:/home/zuo/mytools_new/testtools_new/main.cpp</file>
+            <file>file:/home/zuo/mytools_new/common/memory_pool/MemoryPool.hpp</file>
+            <file>file:/home/zuo/mytools_new/common/srv/tcp/TcpSrv.hpp</file>
+            <file>file:/home/zuo/mytools_new/common/srv/tcp/base/TcpSrvBase.hpp</file>
+            <file>file:/home/zuo/mytools_new/common/design_patterns/Singleton.hpp</file>
+            <file>file:/home/zuo/mytools_new/common/srv/tcp/TcpSrv.cpp</file>
+            <file>file:/home/zuo/mytools_new/testtools_new/TestSrv.hpp</file>
+            <file>file:/home/zuo/mytools_new/common/srv/tcp/base/TcpSrvBase.cpp</file>
+        </group>
+    </open-files>
+</project-private>
